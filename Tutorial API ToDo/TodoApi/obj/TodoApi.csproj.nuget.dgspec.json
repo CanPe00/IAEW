@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\TSB\\TSB_Tutorial API ToDo\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\IAEW\\IAEW\\Tutorial API ToDo\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\TSB\\TSB_Tutorial API ToDo\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\IAEW\\IAEW\\Tutorial API ToDo\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\TSB\\TSB_Tutorial API ToDo\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\IAEW\\IAEW\\Tutorial API ToDo\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\TSB\\TSB_Tutorial API ToDo\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\IAEW\\IAEW\\Tutorial API ToDo\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\TSB\\TSB_Tutorial API ToDo\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\IAEW\\IAEW\\Tutorial API ToDo\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
