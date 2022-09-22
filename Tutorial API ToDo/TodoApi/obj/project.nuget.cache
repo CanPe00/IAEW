@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LtKntLdrrWGkFUyZXBAZjTTklD5KzqRMefo1jv5lga+DEoUgeJXC6uuzUu+0RWasJFOUSA7R+2QuXZjB+YuRhw==",
+  "dgSpecHash": "8nDYIrjPB6rRXfu3a2+RUY+/iNWJ2tr5DaXGy9CoD/2AXey8w5CP+CgRCV51IpgseLWiA5fbAxCkgKZ+GwHtog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\TSB\\TSB_Tutorial API ToDo\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Documentos\\Cande facu\\IAEW\\IAEW\\Tutorial API ToDo\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
